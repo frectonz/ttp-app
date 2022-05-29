@@ -4,6 +4,7 @@
     "slug": "TTP",
     "version": "1.0.0",
     "orientation": "portrait",
+    "description": "An app that generates a truth table from a logical expression.",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
@@ -14,9 +15,7 @@
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
     },
